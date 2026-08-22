@@ -9,6 +9,7 @@ Building serverless systems on AWS and full-stack products across fintech, civic
 [![Email](https://img.shields.io/badge/Email-aliutijani21%40gmail.com-004c22?style=flat-square&logo=gmail&logoColor=white)](mailto:aliutijani21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aliutijani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliutijani)
 [![X](https://img.shields.io/badge/X-%40AliuTijani21-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AliuTijani21)
+![Profile views](https://komarev.com/ghpvc/?username=Aliu2211&style=flat-square&color=004c22&label=Profile+views)
 
 </div>
 
@@ -22,6 +23,14 @@ Building serverless systems on AWS and full-stack products across fintech, civic
 - 🏆 IEEE Computer Society 2026 Global Student Challenge participant
 - 🎓 Azubi Africa cloud engineering program alum
 - 📍 Ghana
+
+### Certifications & Training
+
+| Program | Focus |
+|---|---|
+| **Azubi Africa** — Cloud Engineering | AWS serverless architecture, capstone: [event-cloud](https://github.com/Aliu2211/event-cloud) |
+| **ParoCyber** — Ethical Hacking | Network reconnaissance, vulnerability scanning, pentesting methodology |
+| **IEEE Computer Society** — 2026 Global Student Challenge | CI/CD security, federated learning defense, data center failure prediction |
 
 ### Tech Stack
 
@@ -48,6 +57,30 @@ Multi-tenant serverless invoicing SaaS for Ghanaian SMEs, with Gemini-powered AI
 **[event-cloud](https://github.com/Aliu2211/event-cloud)**
 Serverless REST API on AWS that replaces Microsoft Forms and Excel for event registration — built for the getINNOtized × Azubi Africa capstone.
 `AWS Lambda` `API Gateway` `DynamoDB` `S3` `Cognito` `Terraform`
+
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliu2211/Aliu2211/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Aliu2211/Aliu2211/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<div align="center">
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliu2211&theme=github-compact&hide_border=true)
+
+</div>
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Aliu2211&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Aliu's GitHub stats" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Aliu2211&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliu2211&hide_border=true&background=FFFFFF00" alt="GitHub streak stats" />
+
+</div>
 
 ---
 
