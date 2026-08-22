@@ -13,6 +13,8 @@ I design and ship serverless systems on AWS and full stack products spanning fin
 
 </div>
 
+<hr>
+
 ### About
 
 I build cloud native products end to end. On the backend that means serverless architectures on AWS: Lambda, DynamoDB, API Gateway, Cognito, and Step Functions, provisioned with Terraform. On the frontend, I work with Next.js, React, and TypeScript. I also spend time in offensive and cloud security, covering network reconnaissance, vulnerability scanning, and pentesting fundamentals.
@@ -82,6 +84,8 @@ Serverless REST API on AWS that replaces Microsoft Forms and Excel for event reg
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliu2211&hide_border=true&background=FFFFFF00" alt="GitHub streak stats" />
 
 </div>
+
+<hr>
 
 <div align="center">
 
