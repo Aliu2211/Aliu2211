@@ -21,6 +21,8 @@ I build cloud native products end to end. On the backend that means serverless a
 
 I'm a participant in the IEEE Computer Society 2026 Global Student Challenge and an alum of the Azubi Africa cloud engineering program, currently based in Ghana.
 
+<hr>
+
 ### Certifications & Training
 
 **Azubi Africa, Cloud Engineering**
@@ -31,6 +33,8 @@ I'm a participant in the IEEE Computer Society 2026 Global Student Challenge and
 
 **IEEE Computer Society, 2026 Global Student Challenge**
 <br>CI/CD security, federated learning defense, data center failure prediction
+
+<hr>
 
 ### Tech Stack
 
@@ -47,6 +51,8 @@ I'm a participant in the IEEE Computer Society 2026 Global Student Challenge and
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
+<hr>
+
 ### Featured Projects
 
 **[SafeRoute](https://github.com/Aliu2211/saferoute)**
@@ -61,6 +67,8 @@ Multitenant serverless invoicing SaaS for Ghanaian SMEs, with AI collections mes
 Serverless REST API on AWS that replaces Microsoft Forms and Excel for event registration, built for the getINNOtized × Azubi Africa capstone.
 `AWS Lambda` `API Gateway` `DynamoDB` `S3` `Cognito` `Terraform`
 
+<hr>
+
 ### Contribution Activity
 
 <picture>
@@ -73,6 +81,8 @@ Serverless REST API on AWS that replaces Microsoft Forms and Excel for event reg
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliu2211&theme=github-compact&hide_border=true)
 
 </div>
+
+<hr>
 
 ### GitHub Stats
 
