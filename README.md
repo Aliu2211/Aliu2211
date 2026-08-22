@@ -2,9 +2,9 @@
 
 # Hi, I'm Aliu Tijani 👋
 
-### Software Engineer — Cloud & Full Stack
+### Cloud focused software engineer, building serverless products end to end
 
-Building serverless systems on AWS and full stack products across fintech, civic infrastructure, and event tech. Based in Ghana 🇬🇭
+I design and ship serverless systems on AWS and full stack products spanning fintech, civic infrastructure, and event technology. Based in Ghana 🇬🇭
 
 [![Email](https://img.shields.io/badge/Email-aliutijani21%40gmail.com-004c22?style=flat-square&logo=gmail&logoColor=white)](mailto:aliutijani21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aliutijani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliutijani)
@@ -13,24 +13,22 @@ Building serverless systems on AWS and full stack products across fintech, civic
 
 </div>
 
----
-
 ### About
 
-🏗️ I design and ship serverless architectures on AWS — Lambda, DynamoDB, API Gateway, Cognito, Step Functions — provisioned with Terraform
-<br>🌐 On the frontend, I build with Next.js, React, and TypeScript
-<br>🔐 I also work in offensive/cloud security — network reconnaissance, vulnerability scanning, and pentesting fundamentals
-<br>🏆 IEEE Computer Society 2026 Global Student Challenge participant
-<br>🎓 Azubi Africa cloud engineering program alum
-<br>📍 Ghana
+I build cloud native products end to end. On the backend that means serverless architectures on AWS: Lambda, DynamoDB, API Gateway, Cognito, and Step Functions, provisioned with Terraform. On the frontend, I work with Next.js, React, and TypeScript. I also spend time in offensive and cloud security, covering network reconnaissance, vulnerability scanning, and pentesting fundamentals.
+
+I'm a participant in the IEEE Computer Society 2026 Global Student Challenge and an alum of the Azubi Africa cloud engineering program, currently based in Ghana.
 
 ### Certifications & Training
 
-| Program | Focus |
-|---|---|
-| **Azubi Africa** — Cloud Engineering | AWS serverless architecture, capstone: [event-cloud](https://github.com/Aliu2211/event-cloud) |
-| **ParoCyber** — Ethical Hacking | Network reconnaissance, vulnerability scanning, pentesting methodology |
-| **IEEE Computer Society** — 2026 Global Student Challenge | CI/CD security, federated learning defense, data center failure prediction |
+**Azubi Africa, Cloud Engineering**
+<br>AWS serverless architecture, capstone project: [event-cloud](https://github.com/Aliu2211/event-cloud)
+
+**ParoCyber, Ethical Hacking**
+<br>Network reconnaissance, vulnerability scanning, pentesting methodology
+
+**IEEE Computer Society, 2026 Global Student Challenge**
+<br>CI/CD security, federated learning defense, data center failure prediction
 
 ### Tech Stack
 
@@ -58,7 +56,7 @@ Multitenant serverless invoicing SaaS for Ghanaian SMEs, with AI collections mes
 `AWS Lambda` `DynamoDB` `Cognito` `Terraform` `Gemini API`
 
 **[event-cloud](https://github.com/Aliu2211/event-cloud)**
-Serverless REST API on AWS that replaces Microsoft Forms and Excel for event registration — built for the getINNOtized × Azubi Africa capstone.
+Serverless REST API on AWS that replaces Microsoft Forms and Excel for event registration, built for the getINNOtized × Azubi Africa capstone.
 `AWS Lambda` `API Gateway` `DynamoDB` `S3` `Cognito` `Terraform`
 
 ### Contribution Activity
@@ -84,8 +82,6 @@ Serverless REST API on AWS that replaces Microsoft Forms and Excel for event reg
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliu2211&hide_border=true&background=FFFFFF00" alt="GitHub streak stats" />
 
 </div>
-
----
 
 <div align="center">
 
