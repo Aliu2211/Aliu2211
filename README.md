@@ -17,12 +17,12 @@ Building serverless systems on AWS and full-stack products across fintech, civic
 
 ### About
 
-- 🏗️ I design and ship serverless architectures on AWS — Lambda, DynamoDB, API Gateway, Cognito, Step Functions — provisioned with Terraform
-- 🌐 On the frontend, I build with Next.js, React, and TypeScript
-- 🔐 I also work in offensive/cloud security — network reconnaissance, vulnerability scanning, and pentesting fundamentals
-- 🏆 IEEE Computer Society 2026 Global Student Challenge participant
-- 🎓 Azubi Africa cloud engineering program alum
-- 📍 Ghana
+🏗️ I design and ship serverless architectures on AWS — Lambda, DynamoDB, API Gateway, Cognito, Step Functions — provisioned with Terraform
+<br>🌐 On the frontend, I build with Next.js, React, and TypeScript
+<br>🔐 I also work in offensive/cloud security — network reconnaissance, vulnerability scanning, and pentesting fundamentals
+<br>🏆 IEEE Computer Society 2026 Global Student Challenge participant
+<br>🎓 Azubi Africa cloud engineering program alum
+<br>📍 Ghana
 
 ### Certifications & Training
 
